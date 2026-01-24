@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with image galleries
-date: 2024-12-04 01:59:00
+title: Levenberg-Marquadt algorithm
+date: 2025-8-04 01:59:00
 description: this is what included image galleries could look like
-tags: formatting images
+tags: optimization images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
