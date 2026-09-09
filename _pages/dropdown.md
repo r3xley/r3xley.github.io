@@ -7,7 +7,6 @@ dropdown: true
 children:
   - title: about
     permalink: /about/
-  - title: about
-    permalink: /about/
-
+  - title: blog
+    permalink: /blog/
 ---

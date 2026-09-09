@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: pp2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,10 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student studying Computer Science at the University of Pittsburgh. 
+I am an undergraduate student studying Computer Science at the University of Pittsburgh.
 
 I am interested in artificial intelligence for 3D spatial understanding and enabling machines to perceive, reconstruct, and reason about the world. Therefore, my research interests include SLAM, 3D reconstruction, generative AI, and robot learning.
 
 I have worked on learning-based SLAM at the [AirLab](https://theairlab.org/) under Sebastian Scherer and Wenshan Wang. I am also working on photorealistic 3D reconstruction at the [Visual & Geometric Intelligence Lab](https://jaesik.info/lab) under Prof. Jaesik Park during my time at Seoul National University
-
-
